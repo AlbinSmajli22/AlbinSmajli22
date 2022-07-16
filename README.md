@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlbinSmajli22
 - 👀 I’m interested in web development
-- 🌱 I’m certified in HTML5 CSS3 and Java Script and currently I'm learning php and Mysql
+- 🌱 I’m certified in HTML5, CSS3, Java Script, php and Mysql and currently I'm looking for a work place
 - 💞️ I’m looking to collaborate on web development
 - 📫 You can reach me at my e-mail smajlialbin@gmail.com
 
